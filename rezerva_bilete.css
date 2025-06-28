@@ -1,0 +1,173 @@
+.b1{
+    padding-right:10%;
+}
+
+.logout{
+
+    color:black;
+}
+
+/* body {
+
+    background-image: url("cool-background.png");
+} */
+
+
+.home_button{
+
+    margin-left:200px;
+    border: none;
+    width: 100px;
+    color:black;
+    font-weight: bold;
+}
+
+.rezerve_button{
+
+    /* margin-right:400px; */
+    width: 200px;
+    border: none;
+    color:black;
+    font-weight: bold;
+}
+.covid_button{
+
+    /* margin-right:400px; */
+    border: none;
+    width: 150px;
+    color:black;
+    font-weight: bold;
+}
+
+
+/* body{
+
+    background-color:#FAEBD7;
+    background-image: url("avion2.jpg");
+    background-size: cover;
+
+
+
+} */
+
+.p1{
+
+    text-align:left;
+    color:rgb(240, 239, 226);
+    font-size: 30px;
+}
+
+.f1 {
+    background: rgba(66, 133, 84, 0.7); /* Culoare mai închisă aproape de #87ab98 cu transparență 70% */
+    border-radius: 25px;
+    width: 64%;
+    height: 300px;
+    margin-left: 18%;
+    margin-top: 10%;
+}
+
+
+.f0{
+    background-image: url("avion2.jpg");
+    background-size: cover;
+    width:100%;
+    height: 820px;
+    margin-top: -152px;
+    padding-top: 172px;
+
+
+
+}
+
+.f2{
+
+background-color: #f2f2f2;
+width:100%;
+height: 600px;
+position:relative;
+
+}
+
+.s1 {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  position:absolute;
+  top:100px;
+  right:400px;
+
+
+}
+.s11{
+    position:absolute;
+    top:100px;
+    right:50px;
+
+
+}
+
+.s12{
+    position:absolute;
+    top:116px;
+    right:70px;
+
+
+}
+
+.s2 {
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    position:absolute;
+    top:150px;
+    right:400px;
+
+
+  }
+
+  .s21{
+    position:absolute;
+    top:150px;
+    right:35px;
+
+
+}
+
+.s22{
+    position:absolute;
+    top:166px;
+    right:7px;
+
+
+}
+
+.s3{
+    width: 40px;
+    height: 40px;
+    background-color:green;
+    position:absolute;
+    top:200px;
+    right:400px;
+
+
+  }
+
+  .s31{
+    position:absolute;
+    top:210px;
+    right:45px;
+
+
+}
+
+.cov{
+    background-image: url("cov.jpg");
+    background-size: cover;
+    width: 320px;
+    height: 200px;
+    position:absolute;
+    top:400px;
+    right:70px;
+
+
+}

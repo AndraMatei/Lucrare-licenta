@@ -1,0 +1,68 @@
+.b1{
+    padding-right:10%;
+}
+
+.logout{
+
+    background: #87ab98;
+    color: black;
+}
+
+/* body {
+
+    background-image: url("cool-background.png");
+} */
+
+
+.home_button{
+
+    margin-left:200px;
+    border: none;
+    width: 100px;
+    color:black;
+    font-weight: bold;
+}
+
+.rezerve_button{
+
+    /* margin-right:400px; */
+    width: 200px;
+    border: none;
+    color:black;
+    font-weight: bold;
+}
+
+
+
+body{
+
+    background-image: url("a1.jpg");
+    /* background-color: rgb(52, 26, 202); */
+    background-size: cover;
+
+
+
+
+}
+
+.f1 {
+    background:#87ab98 ;
+    color: black;
+    border-radius: 25px;
+    width: 30%;
+    height: 700px;
+    margin-left: 33%;
+    margin-top: 0;
+    
+
+}
+
+
+
+#savebtn{
+    background-color: white ;
+    color:black ;
+    border: none;
+    margin-left: 30px;
+
+}

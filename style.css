@@ -1,0 +1,163 @@
+
+
+.lg-form{
+
+    background-color:#87ab98   ;
+    width: 400px;
+    height: 530px;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+
+}
+
+.lg{
+
+    padding-top: 120px;
+    padding-left: 550px;
+
+}
+
+
+.sign{
+
+    padding-top: 40px;
+    color:black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 27px;
+    background: #87ab9c; 
+    text-align: center;
+}
+.form1{
+    padding-top: 40px;
+
+}
+.input{
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background:#b5b35c;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 3px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.input2{
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background:#ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 3px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+/*conecteaza admin*/
+.log-in-button {
+    width: 40%;
+    margin-left: 30%;
+    color: black;
+    background-color: white;
+    border: none; /* Elimină borderul */
+    outline: none; /* Elimină outline-ul */
+}
+
+.log-in-button:hover {
+    background-color: white; /* Menține fundalul alb */
+    color: black; /* Menține culoarea textului negru */
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.267), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.log-in-button:focus {
+    outline: none; /* Elimină outline-ul când butonul este activat */
+    background-color: white; /* Menține fundalul alb */
+    color: black; /* Menține culoarea textului negru */
+}
+
+
+.register-button{
+    margin-top: 10px;
+    width:50%;
+    margin-left: 25%;
+
+}
+
+body {
+    /* background-color: #b30059; */
+    background-image: url("cool-background.png");
+}
+.create-account-button{
+    margin-top:10px;
+    width:30%;
+    margin-left:35%;
+    color:black;
+}
+.adauga-curse-btn{
+    margin-top:10px;
+    width:30%;
+    margin-left:27%;
+    color:black;
+    background-color: #87ab98;
+}
+.create-account-form {
+
+    background-color:#87ab98;
+    width: 400px;
+    height: 620px;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+
+}
+.cc{
+
+    padding-top: 60px;
+    padding-left: 550px;
+    
+
+}
+.adg{
+    margin-left:100px;
+    height:50px;
+    background-color:#b5b35c;
+}
+.logo2 {
+    margin-left: 90px; /* Crește valoarea pentru a muta poza mai mult spre dreapta */
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.error{
+    border: 2px solid red;
+}
+.msg{
+  padding-left:30px;
+  color: black;
+
+
+}
+
+.linkbtn{
+
+    padding-left:110px;
+    
+}
